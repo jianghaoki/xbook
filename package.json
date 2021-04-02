@@ -1,0 +1,23 @@
+{
+  "name": "xbook",
+  "version": "1.0.0",
+  "description": "作品的简单介绍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianghaoki/xbook.git"
+  },
+  "keywords": [],
+  "author": "jianghaoki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jianghaoki/xbook/issues"
+  },
+  "homepage": "https://github.com/jianghaoki/xbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
